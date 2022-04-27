@@ -1,0 +1,8 @@
+.list {
+  width: 100%;
+  height: auto;
+  max-height: 75%;
+  overflow-y: auto;
+  -ms-overflow-y: auto;
+  flex-wrap: wrap;
+}

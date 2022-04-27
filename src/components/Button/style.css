@@ -1,0 +1,21 @@
+button {
+    min-width: 25%;
+    height: 42px;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    font-size: 22px;
+    background: linear-gradient(189.77deg, #7135d8 14.69%, #542acc 85.31%);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.white { 
+    background: white;
+    color: #000;
+}
