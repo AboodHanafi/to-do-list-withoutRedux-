@@ -9,7 +9,6 @@ function InputBox(props) {
         value={props.value}
         type="text"
         placeholder={"Enter task"}
-        max={150}
       />
       <Button
         disabled={!props.value}
